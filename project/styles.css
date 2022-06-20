@@ -1,0 +1,48 @@
+body{
+    background-image: url(selling.jpeg);
+   
+}
+.contact-form{
+    max-width: 350px;
+    margin: auto;
+    border-radius: 5px;
+    background:rgb(138, 132, 132);
+    padding: 30px;
+}
+input{
+    width: 100%;
+    padding: 12px 30px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+label{
+    font-size: 150%;
+    color: white;
+
+}
+button{
+    width: 100%;
+    background: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 150%;
+   
+}
+button:hover{
+    background: green;
+    
+}
+h1{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
